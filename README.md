@@ -8,3 +8,5 @@ Link to augmented data .npy file - [Link](https://www.kaggle.com/datasets/yashra
 Data Augmentations for SIIM-ISIC and HAM10k dataset (only for melanoma class) - [Link](https://gist.github.com/yashrajOjha/f095c5887bc4610df4babe359817c794)
 
 Resized SIIM-ISIC dataset - [Link](https://www.kaggle.com/datasets/tunguz/siimisic-melanoma-resized-images)
+
+[Link to preview](https://drive.google.com/file/d/1TWip9yme1NlvZaMBnCKWBhDZcIzNe6H3/view?usp=sharing)
